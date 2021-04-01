@@ -4,6 +4,8 @@ I'm Geoff Caven, a web developer based out of Atlantic Canada and currently work
 
 🌐 Website: [caven.codes](https://caven.codes)
 
+He/Him, 🏳️‍🌈
+
 <!---
 gcaven/gcaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
