@@ -1,4 +1,4 @@
-I'm Geoff Caven, a web developer based out of Atlantic Canada and currently working happily at [Norwegian Block Exchange](https://nbx.com). I specialize in front-end right now, but I have fullstack experience 💪. My primary focus has been JS, React, React Native and Svelte. On the backend I've worked with Node, Django, and Spring (Enterprise Java). I have experience working with both AWS and GCP. I'm a strong supporter of the oxford comma.
+I'm Geoff Caven, a web developer based out of Atlantic Canada and currently working happily at [Shopify](https://shopify.com). I specialize in front-end right now, but I have fullstack experience 💪. My primary focus has been JS, React, React Native and Svelte. On the backend I've worked with Node, Django, and Spring (Enterprise Java). I have experience working with both AWS and GCP. I'm a strong supporter of the oxford comma.
 
 📫 Contact: [geoffreycaven@gmail.com](mailto:geoffreycaven@gmail.com)
 
